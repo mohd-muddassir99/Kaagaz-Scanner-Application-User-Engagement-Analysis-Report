@@ -6,7 +6,7 @@ This project focuses on enhancing the user interface (UI) and user experience (U
 
 
 
-## Project Objective⛳ :- 
+## Project Objective 🎯:- 
 - To analyze the user experience of Kaagaz Scanner.
 
 - To identify key challenges and friction points in app usage.
