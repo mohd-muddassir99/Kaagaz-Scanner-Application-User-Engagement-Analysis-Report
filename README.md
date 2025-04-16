@@ -39,7 +39,7 @@ This project focuses on enhancing the user interface (UI) and user experience (U
 View the **Credit Card Transaction Dashboard** here:
 
 <p align="center">
-    <a href="https://github.com/mohd-muddassir99/Credit_Card_Financial_Dashboard/blob/main/Credit%20card%20transaction.pdf">
+    <a href="https://github.com/mohd-muddassir99/Kaagaz-Scanner-Application-User-Engagement-Analysis-Report/blob/bd52dfa9b18d3de936f8c2d084a34d1b659ffb4d/FINAL%20REPORT%20OF%20KAAGAZ.pdf">
         <img src="https://static.vecteezy.com/system/resources/previews/010/750/673/non_2x/pdf-icon-on-white-background-file-pdf-icon-sign-pdf-format-symbol-flat-style-free-vector.jpg" width="65px" alt="Access Dataset"><br>
         Credit Card Transaction
     </a>
