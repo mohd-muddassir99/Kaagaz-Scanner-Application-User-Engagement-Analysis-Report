@@ -7,18 +7,13 @@ This project focuses on enhancing the user interface (UI) and user experience (U
 
 
 ## Project Objective⛳ :- 
-To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
+- To analyze the user experience of Kaagaz Scanner.
 
-- **Data Integration and Management**: Seamlessly integrate transaction and customer data into a unified platform for efficient analysis.
+- To identify key challenges and friction points in app usage.
 
-- **Dynamic Data Analysis**: Utilize DAX queries to perform dynamic calculations and gain deeper insights into customer behavior and transaction trends.
+- To provide consulting insights backed by research and data.
 
-- **Visualization and Reporting**: Develop an interactive dashboard that provides stakeholders with clear and actionable insights through various KPIs and visualizations.
-
-- **Performance Monitoring**: Track key financial metrics and customer-related statistics to monitor business performance and identify growth opportunities.
-
-- **Customer Segmentation**: Segment customers based on demographics and behavior to tailor marketing strategies and improve customer engagement.
-
+- To deliver actionable recommendations to improve user engagement, retention, and satisfaction.
 
 ## What I did in This Project🙆‍♂️ :-
 
