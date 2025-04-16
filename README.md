@@ -17,17 +17,18 @@ This project focuses on enhancing the user interface (UI) and user experience (U
 
 ## What I did in This Project🙆‍♂️ :-
 
-- **Data Importation**: Imported transaction and customer datasets into a SQL database.
-Ensured data integrity and accuracy during the import process.
+1. :- Problem Identification – Focused on user experience challenges related to filters, cloud storage, and UI.
+2. User Research – Created and distributed questionnaires using Google Forms; collected data from 100+ diverse users (students, professionals, legal users, etc.).
+3. Data Analysis – Interpreted feedback using charts and metrics:
+     - 31% users reported filter issues
+     - 22% faced cloud storage limitations
+     - 81% were aware of app features
+     - 62% users were willing to recommend the app
 
-- **Database Connection Setup**: Established a live connection between Power BI and the SQL database.
-Configured automatic data refresh to keep the dashboard up-to-date with the latest data.
+4. Market Analysis – Compared with similar apps and studied usage frequency and feature adoption.
+5. Conclusion & Recommendations – Generated key insights and improvement strategies.
 
-- **Data Analysis with DAX**: Wrote DAX queries to segment customers into age and income groups.
-Calculated key metrics such as current week revenue, previous week revenue, and week-over-week (WoW) growth.
-Derived additional insights like transaction counts and average customer income.
 
- Some DAX expression was written like;
  
 >>1. **Age Group** 
  
