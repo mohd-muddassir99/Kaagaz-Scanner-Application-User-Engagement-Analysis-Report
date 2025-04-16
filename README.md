@@ -17,16 +17,16 @@ This project focuses on enhancing the user interface (UI) and user experience (U
 
 ## What I did in This Project🙆‍♂️ :-
 
-1. :- Problem Identification – Focused on user experience challenges related to filters, cloud storage, and UI.
-2. User Research – Created and distributed questionnaires using Google Forms; collected data from 100+ diverse users (students, professionals, legal users, etc.).
-3. Data Analysis – Interpreted feedback using charts and metrics:
+1. **Problem Identification** – Focused on user experience challenges related to filters, cloud storage, and UI.
+2. **User Research** – Created and distributed questionnaires using Google Forms; collected data from 100+ diverse users (students, professionals, legal users, etc.).
+3. **Data Analysis** – Interpreted feedback using charts and metrics:
      - 31% users reported filter issues
      - 22% faced cloud storage limitations
      - 81% were aware of app features
      - 62% users were willing to recommend the app
 
-4. Market Analysis – Compared with similar apps and studied usage frequency and feature adoption.
-5. Conclusion & Recommendations – Generated key insights and improvement strategies.
+4. **Market Analysis** – Compared with similar apps and studied usage frequency and feature adoption.
+5. **Conclusion & Recommendations** – Generated key insights and improvement strategies.
 
 
  
