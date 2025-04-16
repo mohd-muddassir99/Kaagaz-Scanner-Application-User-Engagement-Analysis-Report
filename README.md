@@ -45,12 +45,12 @@ View the **Final Report  of Kaagaz UI & UX Analysis** here:
     </a>
 </p> <br>
 
-View the **Final Report  of Kaagaz UI & UX Analysis** here:
+View the **Kaagaz User Analysis** here:
 
 <p align="center">
-    <a href="https://github.com/mohd-muddassir99/Credit_Card_Financial_Dashboard/blob/main/Credit%20card%20customer.pdf">
+    <a href="https://github.com/mohd-muddassir99/Kaagaz-Scanner-Application-User-Engagement-Analysis-Report/blob/0b7078b535c4d043a4624f5f5b98124d0e7d565a/Kaagaz%204.1%20User%20Analysis.pdf">
         <img src="https://static.vecteezy.com/system/resources/previews/010/750/673/non_2x/pdf-icon-on-white-background-file-pdf-icon-sign-pdf-format-symbol-flat-style-free-vector.jpg" width="65px" alt="Access Dataset"><br>
-        Kaagaz UI & UX Analysis
+        Kaagaz User Analysis
     </a>
 </p> <br>
 
