@@ -58,7 +58,7 @@ View the **Kaagaz User Analysis** here:
 ---
 
 <div align="center">
-Thanks for checking out my Credit Card Transaction Dashboard project! Your interest means a lot. Feel free to reach out if you have any questions or feedback. Happy analyzing! 😊<br>
+Thanks for checking out my Kaagaz Scanner Application User Engagement Analysis project! Your interest means a lot. Feel free to reach out if you have any questions or feedback. Happy analyzing! 😊<br>
  🔗 Connect with me on LinkedIn 
  
   <p align="center">
